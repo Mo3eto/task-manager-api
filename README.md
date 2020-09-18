@@ -1,3 +1,5 @@
+create new Repo on GitHub
+
 git init 
 git add . 
 git commit -m "initCommit"
